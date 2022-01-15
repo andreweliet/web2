@@ -1,0 +1,15 @@
+#preloader {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  /* z-index: 100; */
+}
+
+.spinner-grow {
+  display: block;
+  position: fixed;
+  top: 50%;
+  right: 50%;
+  color: #08e2be !important;
+}
